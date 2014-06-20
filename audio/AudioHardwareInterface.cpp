@@ -18,7 +18,7 @@
 #include <cutils/properties.h>
 #include <string.h>
 #include <unistd.h>
-//#define LOG_NDEBUG 0
+#define LOG_NDEBUG 0
 
 #define LOG_TAG "AudioHardwareInterface"
 #include <utils/Log.h>
