@@ -19,7 +19,7 @@
 #define LOG_TAG "AudioPolicyManagerBase"
 #define LOG_NDEBUG 0
 
-//#define VERY_VERBOSE_LOGGING
+#define VERY_VERBOSE_LOGGING
 #ifdef VERY_VERBOSE_LOGGING
 #define ALOGVV ALOGV
 #else
